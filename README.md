@@ -1,4 +1,4 @@
-# Gqt-Project1
+﻿# Gqt-Project1
 
 A simple Java console version of **Kaun Banega Crorepati (KBC)**.
 
